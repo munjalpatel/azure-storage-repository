@@ -1,0 +1,22 @@
+{
+  "name": "azure-storage-repository",
+  "version": "1.0.0",
+  "description": "Repository for Azure Table Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munjalpatel/azure-storage-repository.git"
+  },
+  "author": "Munjal Patel <munjalpatel@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munjalpatel/azure-storage-repository/issues"
+  },
+  "homepage": "https://github.com/munjalpatel/azure-storage-repository",
+  "dependencies": {
+    "azure-storage": "^0.4.5"
+  }
+}
